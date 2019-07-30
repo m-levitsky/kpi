@@ -1,0 +1,4 @@
+/home/misha/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/183.5429.37/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/sda4/Documents/infa_2/lab4_26_CASINO
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/sda4/Documents/infa_2/lab4_26_CASINO/cmake-build-debug

@@ -1,0 +1,3 @@
+/mnt/sda4/Documents/infa_2/lab4_26_CASINO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/sda4/Documents/infa_2/lab4_26_CASINO/cmake-build-debug/CMakeFiles/lab4_26_CASINO.dir
+/mnt/sda4/Documents/infa_2/lab4_26_CASINO/cmake-build-debug/CMakeFiles/edit_cache.dir
