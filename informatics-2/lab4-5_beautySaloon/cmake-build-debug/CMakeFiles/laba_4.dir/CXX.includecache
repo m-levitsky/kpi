@@ -1,0 +1,100 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/misha/Documents/infa_2/laba 4/CashMachine.h
+Cashbox.h
+/home/misha/Documents/infa_2/laba 4/Cashbox.h
+
+/home/misha/Documents/infa_2/laba 4/Cashbox.h
+
+/home/misha/Documents/infa_2/laba 4/Client.h
+cstring
+-
+ctime
+-
+iostream
+-
+Human.h
+/home/misha/Documents/infa_2/laba 4/Human.h
+
+/home/misha/Documents/infa_2/laba 4/Date.h
+cstring
+-
+iostream
+-
+
+/home/misha/Documents/infa_2/laba 4/Employee.h
+cstring
+-
+ctime
+-
+iostream
+-
+Human.h
+/home/misha/Documents/infa_2/laba 4/Human.h
+
+/home/misha/Documents/infa_2/laba 4/Human.h
+cstring
+-
+ctime
+-
+iostream
+-
+
+/home/misha/Documents/infa_2/laba 4/Room.h
+
+/home/misha/Documents/infa_2/laba 4/Schedule.h
+cstring
+-
+ctime
+-
+iostream
+-
+Date.h
+/home/misha/Documents/infa_2/laba 4/Date.h
+Room.h
+/home/misha/Documents/infa_2/laba 4/Room.h
+Client.h
+/home/misha/Documents/infa_2/laba 4/Client.h
+
+/home/misha/Documents/infa_2/laba 4/Service.h
+string.h
+-
+iostream
+-
+Schedule.h
+/home/misha/Documents/infa_2/laba 4/Schedule.h
+Room.h
+/home/misha/Documents/infa_2/laba 4/Room.h
+
+/home/misha/Documents/infa_2/laba 4/main.cpp
+iostream
+-
+cstring
+-
+ctime
+-
+unistd.h
+-
+Human.h
+/home/misha/Documents/infa_2/laba 4/Human.h
+Employee.h
+/home/misha/Documents/infa_2/laba 4/Employee.h
+Room.h
+/home/misha/Documents/infa_2/laba 4/Room.h
+CashMachine.h
+/home/misha/Documents/infa_2/laba 4/CashMachine.h
+Service.h
+/home/misha/Documents/infa_2/laba 4/Service.h
+Date.h
+/home/misha/Documents/infa_2/laba 4/Date.h
+Client.h
+/home/misha/Documents/infa_2/laba 4/Client.h
+Schedule.h
+/home/misha/Documents/infa_2/laba 4/Schedule.h
+

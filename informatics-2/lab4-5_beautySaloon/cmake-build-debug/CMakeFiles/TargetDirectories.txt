@@ -1,0 +1,3 @@
+/home/misha/Documents/infa_2/laba 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/misha/Documents/infa_2/laba 4/cmake-build-debug/CMakeFiles/laba_4.dir
+/home/misha/Documents/infa_2/laba 4/cmake-build-debug/CMakeFiles/edit_cache.dir

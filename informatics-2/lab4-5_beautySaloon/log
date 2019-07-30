@@ -1,0 +1,8 @@
+CashMachine - done - interface done
+Employee:Human - done - interface done
+Human - done - interface done
+Room - done - interface done
+Service - done - interface done
+Date - done - interface done
+Schedule:Date - almost done
+Client:Human - done
