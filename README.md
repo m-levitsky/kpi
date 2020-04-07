@@ -1,4 +1,4 @@
-# KPI lab assignments
+# Labs
 
  ## 1-й курс (2018-2019)
  
