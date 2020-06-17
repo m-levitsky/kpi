@@ -8,7 +8,10 @@
  
   ## 2-й курс (2019-2020)
   
+  [Обчислювальна математика](https://github.com/qwertymaden/kpi-labs/tree/master/Computational%20math) (Абакумова О.О.)
+  
   [ООП](https://github.com/qwertymaden/kpi-labs/tree/master/OOP) (Сарибога Г.В.)
   
   [Інформаційні технології-1](https://github.com/qwertymaden/kpi-labs/tree/master/IT-1) (Волківський В.Б.)
 
+  
