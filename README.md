@@ -8,4 +8,5 @@
  
   ## 2-й курс (2019-2020)
   
-  soon
+  [ООП](https://github.com/qwertymaden/kpi-labs/tree/master/OOP) (Сарибога Г.В.)
+
